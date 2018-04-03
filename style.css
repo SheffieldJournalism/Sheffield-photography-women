@@ -196,7 +196,7 @@ header a {
 .oldpaper {
   /* This style is applied to a content section
   rather than a header section */
-  background: url(images/old-paper1.jpg) no-repeat;
+  background: url(images/old-paper2.jpg) no-repeat;
   background-size: cover;
   background-attachment: scroll;
 }
@@ -273,8 +273,8 @@ header a {
 .overlay_fige figcaption {
   position: absolute;
   bottom: 1em;
-  left: 4em;
-  right: 1em;
+  left: 15em;
+  right: 8em;
   background: rgba(0, 0, 0, 0.7);
   width: 40%;
   font-size: 0.8em;
@@ -287,7 +287,7 @@ header a {
 .content.man {
   /* This style creates an alternative style for the column of content
   the column is ofset to the right of the viewport rather than centred */
-  padding: 1em 10% 1em 60%;
+  padding: 2em 10% 2em 70%;
 }
 
 
